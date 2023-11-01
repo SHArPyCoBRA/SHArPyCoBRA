@@ -1,4 +1,4 @@
-# Google Authenticator OpenSource
+# SAMkenX SHArPyCoBRA : System  Semantic Hash Authenticator       Python Credential Object Reclaimation of Accounts.
 
 The Google Authenticator project includes implementations of one-time passcode
 generators for several mobile platforms. One-time passcodes are generated using
