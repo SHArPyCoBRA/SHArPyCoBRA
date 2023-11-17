@@ -1,4 +1,4 @@
-# SAMkenX SHArPyCoBRA : System  Semantic Hash Authenticator       Python Credential Object Reclaimation of Accounts.
+# SAMkenX SHArPyCoBRA : System  Semantic Hash Authenticator       Python Credential Object Binary, Recovery of Accounts.
 
 The Google Authenticator project includes implementations of one-time passcode
 generators for several mobile platforms. One-time passcodes are generated using
